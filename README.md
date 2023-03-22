@@ -178,7 +178,7 @@ POST /restaurant_pizzas: Creates a new RestaurantPizza associated with an existi
 
 - Authors:
 
-   - [Charles Ndung'u]
+   - [Charles Ndung'u] 
 
 - License
 
